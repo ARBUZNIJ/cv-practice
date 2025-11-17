@@ -191,7 +191,7 @@ main()
  
 # РЕЗУЛЬТАТЫ ЭКСПЕРИМЕНТОВ
 
-##BoVW + SIFT:
+## BoVW + SIFT:
 
 Train: 91 (69%)
 Test: 40  (31%)
@@ -208,7 +208,7 @@ NizhnyNovgorodKremlin      21                        0                        0
 ArkhangelskCathedral       0                        5                        0
 PalaceOfLabor              1                        0                       13
 
-##CNN: mobilenet_v2
+## CNN: mobilenet_v2
 
 Train: 104 (79%)
 Test: 27  (21%)
@@ -225,7 +225,7 @@ NizhnyNovgorodKremlin      16                        0                        0
 ArkhangelskCathedral       0                        3                        0
 PalaceOfLabor              0                        0                        8
 
-##CNN: resnet18
+## CNN: resnet18
 
 Всего изображений:  131
 Train: 104 (79%)
